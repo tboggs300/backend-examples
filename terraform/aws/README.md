@@ -3,3 +3,4 @@
 - Basic EC2
 - Basic Lambda
 - CRUD Lambda
+- Websocket API
