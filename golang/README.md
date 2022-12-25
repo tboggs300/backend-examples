@@ -1,5 +1,5 @@
 # Go
 
-## Layout
-- basic-web-server
-- crud-api
+## Examples
+- Basic Web Server
+- CRUD API
