@@ -1,0 +1,3 @@
+/*
+  app.js should contain the entry point for your server. This can also be named the typical index.js
+*/

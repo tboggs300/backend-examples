@@ -1,0 +1,1 @@
+This folder will contain database access and handling of any connections to the database
