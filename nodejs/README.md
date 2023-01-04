@@ -5,3 +5,5 @@
 - Caching
 - CRUD API
 - Load Testing
+- Logging (with Morgan)
+- Standard Folder Structure
