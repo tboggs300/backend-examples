@@ -1,0 +1,5 @@
+{
+  "mongo": {
+    "connectionString": "mongodb+srv://<username>:<password>@<db-name>.<uuid>.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
