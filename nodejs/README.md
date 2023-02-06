@@ -7,3 +7,4 @@
 - Load Testing
 - Logging (with Morgan)
 - Standard Folder Structure
+- User Authentication
